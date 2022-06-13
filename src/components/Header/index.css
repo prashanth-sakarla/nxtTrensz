@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.header-bg-container {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-image {
+  height: 40px;
+  width: 110px;
+  margin-left: 50px;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+}
+.icon-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  height: 34px;
+  margin-right: 20px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}

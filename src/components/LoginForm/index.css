@@ -1,0 +1,61 @@
+/* Write your CSS code here */
+.login-icon-image {
+  height: 400px;
+  width: 600px;
+}
+.login-image-container {
+  margin-top: 150px;
+  margin-left: 50px;
+}
+.login-card {
+  height: 300px;
+  width: 260px;
+  border-radius: 6px;
+  box-shadow: 0px 10px 10px 0px#d7dfe9;
+  margin-top: 200px;
+  margin-left: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-bg-container {
+  display: flex;
+}
+.login-card-logo {
+  height: 50px;
+  width: 150px;
+}
+.input-container {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d7dfe9;
+}
+.input {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.input-element {
+  margin-top: 10px;
+}
+
+.login-button {
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  width: 180px;
+  height: 35px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
